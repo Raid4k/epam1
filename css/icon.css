@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?w3taba');
+  src:  url('../fonts/icomoon.eot?w3taba#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?w3taba') format('truetype'),
+    url('../fonts/icomoon.woff?w3taba') format('woff'),
+    url('../fonts/icomoon.svg?w3taba#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-66:before {
+  content: "\e900";
+  color: #18cfab;
+}
+.icon-ava:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-bigX:before {
+  content: "\e902";
+  color: #18cfab;
+}
+.icon-box:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-cart:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-crystal:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-devices:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-docs:before {
+  content: "\e907";
+  color: #18cfab;
+}
+.icon-fb:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-finger:before {
+  content: "\e909";
+  color: #18cfab;
+}
+.icon-fly:before {
+  content: "\e90a";
+  color: #18cfab;
+}
+.icon-lamp:before {
+  content: "\e90b";
+  color: #18cfab;
+}
+.icon-lamp2:before {
+  content: "\e90c";
+  color: #18cfab;
+}
+.icon-lapt:before {
+  content: "\e90d";
+  color: #18cfab;
+}
+.icon-list:before {
+  content: "\e90e";
+  color: #18cfab;
+}
+.icon-loop:before {
+  content: "\e90f";
+  color: #18cfab;
+}
+.icon-marker:before {
+  content: "\e910";
+  color: #fff;
+}
+.icon-ok:before {
+  content: "\e911";
+  color: #18cfab;
+}
+.icon-pen:before {
+  content: "\e912";
+  color: #18cfab;
+}
+.icon-sandC:before {
+  content: "\e913";
+  color: #18cfab;
+}
+.icon-skype:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-tw:before {
+  content: "\e915";
+  color: #fff;
+}
+.icon-url:before {
+  content: "\e916";
+  color: #1fdab5;
+}
+.icon-vimeo:before {
+  content: "\e917";
+  color: #fff;
+}
+.icon-work:before {
+  content: "\e918";
+  color: #18cfab;
+}
+.icon-x:before {
+  content: "\e919";
+  color: #fff;
+}
